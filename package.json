@@ -8,7 +8,7 @@
     "test": "mocha 'test/**/*.test.js'"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.5.0",
+    "@openzeppelin/contracts": "^4.7.2",
     "ethers": "^4.0.46",
     "waffle": "^0.0.4"
   },
